@@ -1,6 +1,6 @@
 # OME Stream pentru Samsung Tizen - descarcari
 
-[Descarca instalatorul Windows si pachetul WGT](https://github.com/elisunou/ome-stream-tizen-downloads/releases/latest)
+[Descarca instalatorul Windows si pachetul WGT](https://github.com/elisunou/ome-stream-tizen-downloads/releases)
 
 Versiune de dezvoltare, separata de APK-ul Android. Nu include DataScene. Nu a fost inca validata pe un televizor fizic.
 
